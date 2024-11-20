@@ -1,22 +1,6 @@
 const hogs = [
-  {
-    name: "Babe",
-    specialty: "Being incredibly cute",
-    greased: false,
-    weight: 2.0,
-    "highest medal achieved": "bronze",
-    image:
-      "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/babe.jpg",
-  },
-  {
-    name: "Porkchop",
-    specialty: "Making friends",
-    greased: true,
-    weight: 1.6,
-    "highest medal achieved": "silver",
-    image:
-      "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/porkchop.jpg",
-  },
+  
+  
   {
     name: "Cherub",
     specialty: "Flying",
@@ -99,5 +83,6 @@ const hogs = [
       "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/leggo_my_eggo.jpg",
   },
 ];
+
 
 export default hogs;
